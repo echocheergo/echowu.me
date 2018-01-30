@@ -1,7 +1,9 @@
 ---
 title: Data Scientist Journey --- The Famous Iris Data Set
 date: 2018-01-24 20:55:41
-tags: data-scientist-journey, data-visualization
+tags: 
+- data-scientist-journey
+- data-visualization
 ---
 # The Famous Iris Data Set
 This is the first blog where I write about my journey of becoming a data scientist. Today we'll talk about how we can analyze and visualize the famous Iris dataset.
